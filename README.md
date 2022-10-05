@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a person portfolio<br>🤝 I’m looking for apprenticeships and junior dev roles <br>🌱 I’m currently learning React <br>💬 Ask me about Coding Temple<br>⚡ Fun fact: I spent 5 years as a helicopter mechanic
+🔭 I’m currently working on a personal portfolio<br>🤝 I’m looking for apprenticeships and junior dev roles <br>🌱 I’m currently learning React <br>💬 Ask me about Coding Temple<br>⚡ Fun fact: I spent 5 years as a helicopter mechanic
 
 
 ## 🌐 Socials:
