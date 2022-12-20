@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a pharmacy technician, I am also a student<br>🤝 I’m looking for apprenticeships and junior dev roles <br>🌱 I’m currently learning React <br>💬 Ask me about Coding Temple<br>⚡ Fun fact: I spent 5 years as a helicopter mechanic
+🔭 I’m currently working as a pharmacy technician, I am also a student<br>🤝 I’m looking for apprenticeships and junior dev roles <br>🌱 I’m currently working on my personal website <br>💬 Ask me about Coding Temple<br>⚡ Fun fact: I spent 5 years as a helicopter mechanic
 
 
 ## 🌐 Socials:
